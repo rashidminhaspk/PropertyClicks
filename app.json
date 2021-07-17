@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PropertyClicks",
+    "slug": "PropertyClicks",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PropertyClicks"
+}
